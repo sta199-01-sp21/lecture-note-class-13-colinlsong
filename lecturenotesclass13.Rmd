@@ -409,7 +409,7 @@ ci_mice_lived
 Visualizing our Resuts:
 
 ```{r practice_2_visualize}
-visualise(boot_prop) +
+visualise(boot_prop1) +
   shade_ci(ci_mice_lived)
 ```
 
